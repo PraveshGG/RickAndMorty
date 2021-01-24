@@ -10,6 +10,8 @@ This is a sample android app which displays information about the popular web se
 ### 8. Bottom Navigation UI ( 3 fragments, each for Characters, Episodes and Locations)
 ### 9. Custom Bottom Sheet Fragment to show character information.
 ### 10. SearchView implementation
+### 11. Shimmerlayout library as progress dialog.
+
 
 ## Getting Started
 

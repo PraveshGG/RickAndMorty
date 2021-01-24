@@ -29,6 +29,8 @@ Pravesh Giri
 ### Animations
 ### Use of Dagger2 / Hilt
 ### Room Database for offline viewing.
+
+##Screenshots
 1. ![140930198_1031524727342168_6566857379831085337_n](https://user-images.githubusercontent.com/32378488/105641812-00494e00-5e54-11eb-86c7-40c94dd5dc80.jpg)![141284187_529251351379733_4004329037433476908_n](https://user-images.githubusercontent.com/32378488/105641813-00494e00-5e54-11eb-879d-4193e8b3c65b.jpg)
 3. ![142124418_730059811276062_7392609394198851493_n](https://user-images.githubusercontent.com/32378488/105641814-00494e00-5e54-11eb-85c6-af5caa0d5c8c.jpg)
 4. ![142350465_227819808897622_6344821957015071367_n](https://user-images.githubusercontent.com/32378488/105641816-00e1e480-5e54-11eb-8cfc-f7debb84bd31.jpg)
